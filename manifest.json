@@ -1,0 +1,13 @@
+{
+  "name": "Reusable Roadmap Card",
+  "id": "1218464244927469661",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
